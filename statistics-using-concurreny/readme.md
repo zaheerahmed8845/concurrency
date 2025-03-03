@@ -105,7 +105,7 @@
 **Trade-off**
 
 | RunType                             | Write Consistency | Read Consistency |
-   |-------------------------------------|-------------------|------------------|
+|-------------------------------------|-------------------|------------------|
 | No Storage                          | Yes               | Yes              |
 | Storage - <br>ConcurrentLinkedQueue | Yes               | No               |
 | Storage - <br>CopyOnWriteArrayList  | Yes               | No               |
