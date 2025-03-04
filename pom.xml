@@ -25,13 +25,6 @@
         <module>statistics-using-concurreny</module>
         <module>multi-threading</module>
         <module>multi-threading/issues/race-condition</module>
-        <module>completable-future</module>
-        <module>completable-future/demo</module>
-        <module>completable-future/parallelism</module>
-        <module>completable-future/pipelining</module>
-        <module>completable-future/pipelining-tasks</module>
-        <module>completable-future/pipelining-tasks/sequential</module>
-        <module>completable-future/pipelining-tasks/combine</module>
         <module>multi-threading/issues/data-race</module>
         <module>multi-threading/issues/concurrent-modification-exception</module>
         <module>multi-threading/issues</module>
