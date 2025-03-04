@@ -30,6 +30,7 @@
         <module>multi-threading/issues</module>
         <module>atomic-collections</module>
         <module>concurrent-collections</module>
+        <module>advanced-concurrency</module>
     </modules>
     <scm>
         <connection/>
