@@ -23,10 +23,10 @@
     </developers>
     <modules>
         <module>statistics-using-concurreny</module>
-        <module>multi-threading</module>
         <module>atomic-collections</module>
         <module>concurrent-collections</module>
         <module>advanced-concurrency</module>
+        <module>issues-without-concurrency</module>
     </modules>
     <scm>
         <connection/>

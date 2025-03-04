@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.example</groupId>
-        <artifactId>issues</artifactId>
+        <artifactId>issues-without-concurrency</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>concurrent-modification-exception</artifactId>
+    <artifactId>data-race</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

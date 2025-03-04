@@ -5,16 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.example</groupId>
-        <artifactId>concurrency</artifactId>
+        <artifactId>issues-without-concurrency</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>multi-threading</artifactId>
-
-    <packaging>pom</packaging>
-    <modules>
-        <module>issues</module>
-    </modules>
+    <artifactId>concurrent-modification-exception</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
