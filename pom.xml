@@ -35,6 +35,8 @@
         <module>multi-threading/issues/data-race</module>
         <module>multi-threading/issues/concurrent-modification-exception</module>
         <module>multi-threading/issues</module>
+        <module>atomic-collections</module>
+        <module>concurrent-collections</module>
     </modules>
     <scm>
         <connection/>
